@@ -1,0 +1,2172 @@
+{
+  "metadata": {
+    "last_updated": "2026-05-06",
+    "ranking_source": "QS Asia University Rankings 2026 (released November 2025) and QS World University Rankings 2026",
+    "ranking_notes": "Philippine ranking = rank among PH universities in QS Asia 2026. Universities not appearing in QS are noted as 'Not ranked'. Many smaller/local/LGU-funded universities are not ranked in QS.",
+    "acceptance_rate_notes": "Acceptance rates are estimates based on published data from EduRank, UniRank, and institutional sources. Public LGU-funded universities generally have open admission policies for residents.",
+    "tuition_notes": "Tuition fees are approximate and subject to change each AY. Always verify with the university's official website. Tuition for public universities under RA 10931 (Universal Access to Quality Tertiary Education Act) is free for qualified students; miscellaneous fees still apply."
+  },
+  "cities": [
+    {
+      "name": "Manila (The Capital)",
+      "universities": [
+        {
+          "name": "University of the Philippines Manila (UPM)",
+          "type": "Public",
+          "website": "https://upm.edu.ph",
+          "info": "The country's premier institution for health sciences and medical education.",
+          "ph_ranking": "#1 in Philippines (UP System; QS Asia 2026 — 104th in Asia, #1 in PH)",
+          "qs_asia_rank_2026": "104 (UP System)",
+          "acceptance_rate": "~15% (very selective; uses UPCAT for most programs; MD uses separate NMAT)",
+          "total_estimated_students": "~6,000 (UPM campus only)",
+          "programs": [
+            "Doctor of Medicine (MD)",
+            "Doctor of Dental Medicine (DMD)",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Pharmacy (BSPharm)",
+            "Bachelor of Science in Physical Therapy",
+            "Bachelor of Science in Occupational Therapy",
+            "Bachelor of Science in Medical Laboratory Science",
+            "Bachelor of Science in Radiologic Technology",
+            "Bachelor of Science in Nutrition and Dietetics",
+            "Bachelor of Arts in Social Sciences",
+            "Bachelor of Science in Public Health",
+            "Master of Public Health (MPH)",
+            "Doctor of Public Health (DrPH)"
+          ],
+          "tuition": {
+            "undergraduate": "Free under RA 10931 for qualified undergraduates. Miscellaneous fees: approx. PHP 1,000-3,000 per semester. Unsubsidized tuition: approx. PHP 1,500/unit.",
+            "medicine_md": "Additional clinical fees; approx. PHP 30,000-60,000/year above tuition coverage",
+            "graduate": "PHP 2,500-4,500 per unit depending on program"
+          }
+        },
+        {
+          "name": "University of Santo Tomas (UST)",
+          "type": "Private",
+          "website": "https://www.ust.edu.ph",
+          "info": "Founded in 1611, it is the oldest university in Asia and a premier Catholic institution.",
+          "ph_ranking": "#4 in Philippines (QS Asia 2026 — 184th in Asia)",
+          "qs_asia_rank_2026": 184,
+          "acceptance_rate": "~81-90% (uses USTET entrance exam; ~44,000+ applications per cycle)",
+          "total_estimated_students": "~44,812 (AY 2025-2026; official UST data; largest single-campus Catholic university in the world)",
+          "programs": [
+            "Doctor of Medicine (MD)",
+            "Doctor of Dental Medicine (DMD) — not currently offered at main campus",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Pharmacy (BSPharm)",
+            "Bachelor of Science in Physical Therapy",
+            "Bachelor of Science in Medical Laboratory Science",
+            "Bachelor of Science in Radiologic Technology",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Arts in Liberal Arts (various majors)",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Science in Architecture",
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Chemical Engineering",
+            "Bachelor of Science in Mechanical Engineering",
+            "Bachelor of Science in Industrial Engineering",
+            "Bachelor of Fine Arts",
+            "Bachelor of Science in Psychology",
+            "Bachelor of Science in Tourism Management",
+            "Bachelor of Secondary Education (BSEd)",
+            "Juris Doctor (JD / Law)",
+            "Master of Business Administration (MBA)",
+            "Doctor of Philosophy (PhD) in various disciplines",
+            "Master of Arts / Master of Science in various disciplines (50+ programs)"
+          ],
+          "tuition": {
+            "arts_humanities_social_sciences": "approx. PHP 62,000-75,000 per semester",
+            "engineering_architecture": "approx. PHP 80,000-95,000 per semester",
+            "nursing_allied_health": "approx. PHP 75,000-90,000 per semester",
+            "accountancy_business": "approx. PHP 65,000-80,000 per semester",
+            "medicine_md": "approx. PHP 150,000-200,000 per year (professional program)",
+            "law": "approx. PHP 70,000-90,000 per semester",
+            "note": "See https://www.ust.edu.ph/tuition-fees/ for exact per-program breakdown per AY"
+          }
+        },
+        {
+          "name": "De La Salle University (DLSU) - Manila",
+          "type": "Private",
+          "website": "https://www.dlsu.edu.ph",
+          "info": "A leading research university known for its business, engineering, and technology programs.",
+          "ph_ranking": "#3 in Philippines (QS Asia 2026 — 178th in Asia)",
+          "qs_asia_rank_2026": 178,
+          "acceptance_rate": "~35% (highly selective; uses DCAT entrance exam)",
+          "total_estimated_students": "~12,000-14,999",
+          "programs": [
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Science in Computer Science (BSCS)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Computer Engineering",
+            "Bachelor of Science in Electronics and Communications Engineering",
+            "Bachelor of Science in Industrial Engineering",
+            "Bachelor of Science in Chemical Engineering",
+            "Bachelor of Science in Environmental Engineering",
+            "Bachelor of Arts in Liberal Arts",
+            "Bachelor of Arts in Behavioral Sciences",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Arts in Political Science",
+            "Bachelor of Science in Psychology",
+            "Bachelor of Science in Biology",
+            "Bachelor of Science in Physics",
+            "Bachelor of Science in Mathematics",
+            "Bachelor of Science in Economics",
+            "Bachelor of Science in Environmental Science",
+            "Juris Doctor (JD / Law)",
+            "Master of Business Administration (MBA)",
+            "Doctor of Philosophy (PhD) in various disciplines"
+          ],
+          "tuition": {
+            "undergraduate_standard_18_units": "approx. PHP 71,000-102,000 per trimester (AY 2024-2025, freshmen)",
+            "business_arts": "approx. PHP 71,000-85,000 per trimester",
+            "engineering_sciences": "approx. PHP 85,000-102,000 per trimester (higher lab fees)",
+            "law_jd": "approx. PHP 100,000-120,000 per trimester",
+            "graduate_masters": "approx. PHP 40,000-60,000 per trimester",
+            "note": "DLSU operates on a trimester system (3 terms per year). Full annual undergraduate cost: approx. PHP 213,000-306,000. Online tuition calculator available at dlsu.edu.ph."
+          }
+        },
+        {
+          "name": "Polytechnic University of the Philippines (PUP) - Main",
+          "type": "Public",
+          "website": "https://www.pup.edu.ph",
+          "info": "One of the largest and most affordable public universities in the country.",
+          "ph_ranking": "#8 in Philippines (QS Asia 2026 — 671st in Asia)",
+          "qs_asia_rank_2026": 671,
+          "acceptance_rate": "~50-60% (uses PUPCET entrance exam; open to all Filipinos)",
+          "total_estimated_students": "~70,000-80,000 (across all PUP campuses; one of the largest in PH)",
+          "programs": [
+            "Bachelor of Science in Computer Science (BSCS)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Electronics Engineering",
+            "Bachelor of Science in Industrial Engineering",
+            "Bachelor of Science in Mechanical Engineering",
+            "Bachelor of Science in Architecture",
+            "Bachelor of Science in Criminology",
+            "Bachelor of Science in Social Work",
+            "Bachelor of Science in Office Administration",
+            "Bachelor of Arts in Political Science",
+            "Bachelor of Arts in Economics",
+            "Bachelor of Physical Education",
+            "Bachelor of Science in Cooperatives",
+            "Master of Business Administration (MBA)",
+            "Master of Arts in Education"
+          ],
+          "tuition": {
+            "undergraduate": "Free under RA 10931. Symbolic tuition: PHP 12 per unit (21 units = PHP 252/semester). Miscellaneous/lab fees: approx. PHP 500-1,500 per semester.",
+            "note": "One of the most affordable universities in the Philippines"
+          }
+        },
+        {
+          "name": "Pamantasan ng Lungsod ng Maynila (PLM)",
+          "type": "Public",
+          "website": "https://www.plm.edu.ph",
+          "info": "A prestigious city-funded university known for its high board exam passing rates.",
+          "ph_ranking": "Not ranked in QS Asia 2026 (top city-funded university in Manila)",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~30-40% (competitive; uses PLMat; priority for Manila residents)",
+          "total_estimated_students": "~14,000-16,000",
+          "programs": [
+            "Doctor of Medicine (MD)",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Architecture",
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Mechanical Engineering",
+            "Bachelor of Science in Computer Engineering",
+            "Bachelor of Science in Computer Science (BSCS)",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Arts in Political Science",
+            "Juris Doctor (JD / Law)",
+            "Master of Business Administration (MBA)"
+          ],
+          "tuition": {
+            "manila_residents": "Free (city-funded; for Manila residents and qualified scholars). Miscellaneous fees: approx. PHP 1,000-2,000 per semester.",
+            "note": "Additional clinical fees apply for Medicine even for scholars"
+          }
+        },
+        {
+          "name": "Far Eastern University (FEU) - Manila",
+          "type": "Private",
+          "website": "https://www.feu.edu.ph",
+          "info": "A top-tier private university known for its accountancy, business, nursing, and engineering programs.",
+          "ph_ranking": "#11 in Philippines (QS Asia 2026 — 761-770th in Asia)",
+          "qs_asia_rank_2026": "761-770",
+          "acceptance_rate": "~50-74% (uses FEAT entrance exam)",
+          "total_estimated_students": "~20,000-24,999",
+          "programs": [
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Arts in Liberal Arts",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Architecture",
+            "Bachelor of Fine Arts",
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Computer Engineering",
+            "Bachelor of Science in Electronics Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Industrial Engineering",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Tourism Management",
+            "Bachelor of Science in Hospitality Management",
+            "Bachelor of Science in Psychology",
+            "Juris Doctor (JD / Law)",
+            "Doctor of Medicine (MD)",
+            "Master of Business Administration (MBA)"
+          ],
+          "tuition": {
+            "freshmen_2025_2026_range": "PHP 53,898-99,930 per semester (official FEU data)",
+            "accountancy_business": "approx. PHP 55,000-70,000 per semester",
+            "engineering_it": "approx. PHP 60,000-80,000 per semester",
+            "nursing_allied_health": "approx. PHP 65,000-80,000 per semester",
+            "arts_education": "approx. PHP 50,000-65,000 per semester",
+            "medicine": "approx. PHP 150,000-180,000 per year",
+            "note": "Full breakdown at https://www.feu.edu.ph/tuition-details/"
+          }
+        },
+        {
+          "name": "University of the East (UE) - Manila",
+          "type": "Private",
+          "website": "https://www.ue.edu.ph",
+          "info": "Known for its dentistry program and business courses.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~65-75% (uses UECAT entrance exam)",
+          "total_estimated_students": "~18,000-22,000 (Manila and Caloocan combined)",
+          "programs": [
+            "Doctor of Dental Medicine (DMD)",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Computer Science (BSCS)",
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Electronics Engineering",
+            "Bachelor of Science in Mechanical Engineering",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Arts in Liberal Arts",
+            "Bachelor of Science in Psychology"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 45,000-70,000 per semester",
+            "dentistry_dmd": "approx. PHP 120,000-160,000 per year",
+            "business_arts": "approx. PHP 45,000-60,000 per semester",
+            "engineering_it": "approx. PHP 55,000-70,000 per semester"
+          }
+        },
+        {
+          "name": "Mapua University (Intramuros)",
+          "type": "Private",
+          "website": "https://www.mapua.edu.ph",
+          "info": "The premier engineering and technology school in the Philippines.",
+          "ph_ranking": "#7 in Philippines (QS Asia 2026 — 544th in Asia)",
+          "qs_asia_rank_2026": 544,
+          "acceptance_rate": "~78% (uses Mapua entrance exam)",
+          "total_estimated_students": "~13,000-16,000",
+          "programs": [
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Electronics and Communications Engineering",
+            "Bachelor of Science in Mechanical Engineering",
+            "Bachelor of Science in Chemical Engineering",
+            "Bachelor of Science in Industrial Engineering",
+            "Bachelor of Science in Computer Engineering",
+            "Bachelor of Science in Environmental Engineering",
+            "Bachelor of Science in Architecture",
+            "Bachelor of Science in Interior Design",
+            "Bachelor of Science in Computer Science (BSCS)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Fine Arts (Multimedia Arts)",
+            "Master of Science in Engineering (various tracks)",
+            "Doctor of Philosophy in Engineering"
+          ],
+          "tuition": {
+            "undergraduate_per_quarter": "approx. PHP 35,000-60,000 per quarter (Mapua uses a 4-quarter/year system)",
+            "engineering_architecture": "approx. PHP 45,000-60,000 per quarter",
+            "business_it_multimedia": "approx. PHP 35,000-50,000 per quarter",
+            "annual_estimate": "approx. PHP 140,000-240,000 per year (4 terms)",
+            "note": "Mapua uses 4 terms per year. Visit https://www.mapua.edu.ph for current rates."
+          }
+        },
+        {
+          "name": "Adamson University",
+          "type": "Private",
+          "website": "https://www.adamson.edu.ph",
+          "info": "A private Catholic university known for its engineering and architecture programs.",
+          "ph_ranking": "#5 in Philippines (QS Asia 2026 — 464th in Asia)",
+          "qs_asia_rank_2026": 464,
+          "acceptance_rate": "~70-80% (uses AdU entrance exam)",
+          "total_estimated_students": "~14,000-18,000",
+          "programs": [
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Electronics and Communications Engineering",
+            "Bachelor of Science in Mechanical Engineering",
+            "Bachelor of Science in Chemical Engineering",
+            "Bachelor of Science in Industrial Engineering",
+            "Bachelor of Science in Architecture",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Science in Psychology",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Computer Science (BSCS)",
+            "Bachelor of Science in Pharmacy (BSPharm)",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Juris Doctor (JD / Law)",
+            "Master of Engineering",
+            "Master of Business Administration (MBA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 45,000-70,000 per semester",
+            "engineering_architecture": "approx. PHP 55,000-70,000 per semester",
+            "business_arts": "approx. PHP 45,000-60,000 per semester",
+            "pharmacy_nursing": "approx. PHP 55,000-70,000 per semester"
+          }
+        },
+        {
+          "name": "Lyceum of the Philippines University (LPU)",
+          "type": "Private",
+          "website": "https://lpu.edu.ph",
+          "info": "Founded by Jose P. Laurel, known for international relations and hospitality management.",
+          "ph_ranking": "#17 in Philippines (QS Asia 2026 — 1,001-1,100th in Asia)",
+          "qs_asia_rank_2026": "1001-1100",
+          "acceptance_rate": "~65-75% (uses LPUAT entrance exam)",
+          "total_estimated_students": "~20,000-25,000 (Manila and other campuses combined)",
+          "programs": [
+            "Bachelor of Arts in International Relations",
+            "Bachelor of Science in Hospitality Management (BSHM)",
+            "Bachelor of Science in Tourism Management (BSTM)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Juris Doctor (JD / Law)",
+            "Bachelor of Science in Criminology",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Psychology",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Science in Computer Science (BSCS)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Secondary Education (BSEd)",
+            "Master of Business Administration (MBA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 50,000-75,000 per semester",
+            "hospitality_tourism": "approx. PHP 55,000-70,000 per semester",
+            "law": "approx. PHP 70,000-90,000 per semester",
+            "business_accountancy": "approx. PHP 50,000-65,000 per semester"
+          }
+        },
+        {
+          "name": "San Beda University",
+          "type": "Private",
+          "website": "https://www.sanbeda.edu.ph",
+          "info": "A premier Benedictine university known for its law, business, and accountancy programs.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~50-65% (selective; uses San Beda entrance exam)",
+          "total_estimated_students": "~8,000-12,000",
+          "programs": [
+            "Juris Doctor (JD / Law)",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Psychology",
+            "Bachelor of Arts in Liberal Arts",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Master of Laws (LLM)",
+            "Master of Business Administration (MBA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 60,000-90,000 per semester",
+            "law_jd": "approx. PHP 80,000-110,000 per semester",
+            "accountancy_business": "approx. PHP 65,000-85,000 per semester"
+          }
+        },
+        {
+          "name": "Technological University of the Philippines (TUP) - Manila",
+          "type": "Public",
+          "website": "https://www.tup.edu.ph",
+          "info": "The premier state university for technology and engineering in the Philippines.",
+          "ph_ranking": "#26 in Philippines (QS Asia 2026 — 1,301-1,400th in Asia)",
+          "qs_asia_rank_2026": "1301-1400",
+          "acceptance_rate": "~50-65% (uses TUPCAT entrance exam)",
+          "total_estimated_students": "~20,000-25,000 (across all TUP campuses)",
+          "programs": [
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Electronics Engineering",
+            "Bachelor of Science in Mechanical Engineering",
+            "Bachelor of Science in Industrial Engineering",
+            "Bachelor of Science in Computer Engineering",
+            "Bachelor of Science in Architecture",
+            "Bachelor of Technology (various majors)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Technical Teacher Education",
+            "Bachelor of Science in Environmental Science",
+            "Master of Engineering",
+            "Doctor of Philosophy in Technology Education"
+          ],
+          "tuition": {
+            "undergraduate": "Free under RA 10931. Miscellaneous fees: approx. PHP 1,000-2,000 per semester."
+          }
+        },
+        {
+          "name": "Universidad de Manila (UDM)",
+          "type": "Public",
+          "website": "https://www.udm.edu.ph",
+          "info": "A city-funded university offering accessible education to Manila residents.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85% (open to Manila residents; entrance exam required)",
+          "total_estimated_students": "~8,000-12,000",
+          "programs": [
+            "Bachelor of Science in Criminology",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Arts in Political Science",
+            "Bachelor of Public Administration"
+          ],
+          "tuition": {
+            "manila_residents": "Free (city-funded for Manila residents). Miscellaneous fees: approx. PHP 1,000 per semester."
+          }
+        },
+        {
+          "name": "Philippine Normal University (PNU)",
+          "type": "Public",
+          "website": "https://www.pnu.edu.ph",
+          "info": "The National Center for Teacher Education in the Philippines.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~40-60% (selective; uses PNU entrance exam)",
+          "total_estimated_students": "~15,000-20,000 (across PNU campuses)",
+          "programs": [
+            "Bachelor of Secondary Education (BSEd) — English",
+            "Bachelor of Secondary Education (BSEd) — Mathematics",
+            "Bachelor of Secondary Education (BSEd) — Science",
+            "Bachelor of Secondary Education (BSEd) — Filipino",
+            "Bachelor of Secondary Education (BSEd) — Social Studies",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Early Childhood Education",
+            "Bachelor of Special Needs Education",
+            "Bachelor of Physical Education",
+            "Bachelor of Arts in English",
+            "Bachelor of Science in Mathematics",
+            "Bachelor of Arts in Social Sciences",
+            "Master of Arts in Education (MAEd)",
+            "Doctor of Education (EdD)",
+            "Doctor of Philosophy in Education (PhD)"
+          ],
+          "tuition": {
+            "undergraduate": "Free under RA 10931. Miscellaneous fees: approx. PHP 500-1,500 per semester."
+          }
+        },
+        {
+          "name": "National University (NU) - Manila",
+          "type": "Private",
+          "website": "https://www.nu.edu.ph",
+          "info": "A dynamic private university known for its engineering, business, and sports programs.",
+          "ph_ranking": "#23 in Philippines (QS Asia 2026 — 1,201-1,300th in Asia)",
+          "qs_asia_rank_2026": "1201-1300",
+          "acceptance_rate": "~60-75% (uses NUAT entrance exam)",
+          "total_estimated_students": "~12,000-18,000",
+          "programs": [
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Mechanical Engineering",
+            "Bachelor of Science in Electronics Engineering",
+            "Bachelor of Science in Computer Engineering",
+            "Bachelor of Science in Architecture",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Science in Computer Science (BSCS)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Psychology",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Physical Education",
+            "Master of Business Administration (MBA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 40,000-65,000 per semester",
+            "engineering_architecture": "approx. PHP 50,000-65,000 per semester",
+            "business_it": "approx. PHP 40,000-55,000 per semester"
+          }
+        },
+        {
+          "name": "Centro Escolar University (CEU) - Manila",
+          "type": "Private",
+          "website": "https://www.ceu.edu.ph",
+          "info": "A leading university for dentistry, pharmacy, optometry, and health sciences.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~65-80% (uses CEU entrance exam)",
+          "total_estimated_students": "~10,000-15,000",
+          "programs": [
+            "Doctor of Dental Medicine (DMD)",
+            "Bachelor of Science in Pharmacy (BSPharm)",
+            "Bachelor of Science in Medical Laboratory Science",
+            "Bachelor of Science in Optometry",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Psychology",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Accountancy (BSA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 50,000-80,000 per semester",
+            "dentistry_dmd": "approx. PHP 120,000-160,000 per year",
+            "pharmacy_medical_tech": "approx. PHP 60,000-80,000 per semester",
+            "nursing_education": "approx. PHP 50,000-65,000 per semester"
+          }
+        },
+        {
+          "name": "Philippine Women's University (PWU)",
+          "type": "Private",
+          "website": "https://pwu.edu.ph",
+          "info": "The first university for women in Asia, now co-educational, known for social work and music.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85%",
+          "total_estimated_students": "~5,000-8,000",
+          "programs": [
+            "Bachelor of Science in Social Work",
+            "Bachelor of Music (BMus)",
+            "Bachelor of Fine Arts (BFA)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Arts in Psychology",
+            "Master of Arts in Education (MAEd)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 45,000-70,000 per semester",
+            "music_fine_arts": "approx. PHP 50,000-65,000 per semester",
+            "nursing": "approx. PHP 55,000-70,000 per semester"
+          }
+        },
+        {
+          "name": "Colegio de San Juan de Letran",
+          "type": "Private",
+          "website": "https://www.letran.edu.ph",
+          "info": "A historic Dominican institution founded in 1620, located inside Intramuros, Manila.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~65-80% (uses Letran entrance exam)",
+          "total_estimated_students": "~8,000-12,000",
+          "programs": [
+            "Bachelor of Arts in Communication",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Criminology",
+            "Bachelor of Science in Psychology",
+            "Juris Doctor (JD / Law)",
+            "Master of Business Administration (MBA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 50,000-75,000 per semester",
+            "law": "approx. PHP 70,000-90,000 per semester",
+            "business_accountancy": "approx. PHP 55,000-70,000 per semester"
+          }
+        },
+        {
+          "name": "Emilio Aguinaldo College (EAC)",
+          "type": "Private",
+          "website": "https://www.eac.edu.ph",
+          "info": "Known for its medical and health programs.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85%",
+          "total_estimated_students": "~8,000-12,000",
+          "programs": [
+            "Doctor of Medicine (MD)",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Criminology",
+            "Bachelor of Science in Physical Therapy",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Medical Laboratory Science",
+            "Bachelor of Science in Radiologic Technology",
+            "Bachelor of Science in Pharmacy (BSPharm)",
+            "Bachelor of Science in Business Administration (BSBA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 40,000-65,000 per semester",
+            "medicine_md": "approx. PHP 130,000-180,000 per year",
+            "nursing_allied_health": "approx. PHP 50,000-65,000 per semester"
+          }
+        },
+        {
+          "name": "Philippine Christian University (PCU)",
+          "type": "Private",
+          "website": "https://www.pcu.edu.ph",
+          "info": "A Christian university known for its diverse academic offerings and athletic programs.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~75-90%",
+          "total_estimated_students": "~5,000-8,000",
+          "programs": [
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Arts in Social Sciences",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Arts in Psychology",
+            "Bachelor of Arts in Communication",
+            "Master of Arts in Education (MAEd)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 35,000-55,000 per semester",
+            "nursing": "approx. PHP 45,000-55,000 per semester"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Quezon City",
+      "universities": [
+        {
+          "name": "University of the Philippines Diliman (UPD)",
+          "type": "Public",
+          "website": "https://upd.edu.ph",
+          "info": "The flagship campus of the UP System and the National University of the Philippines.",
+          "ph_ranking": "#1 in Philippines (QS Asia 2026 — 104th in Asia; QS World 2026 — 362nd globally)",
+          "qs_asia_rank_2026": 104,
+          "acceptance_rate": "~12% (extremely selective; uses UPCAT — one of the lowest acceptance rates in PH)",
+          "total_estimated_students": "~20,000-24,999 (UPD campus; UP System total ~60,000+)",
+          "programs": [
+            "Bachelor of Arts in Sociology, Anthropology, Political Science, Economics, History, Philosophy, English, Filipino, Communication",
+            "Bachelor of Science in Economics",
+            "Bachelor of Science in Statistics",
+            "Bachelor of Science in Mathematics",
+            "Bachelor of Science in Physics",
+            "Bachelor of Science in Biology",
+            "Bachelor of Science in Chemistry",
+            "Bachelor of Science in Computer Science (BSCS)",
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical and Electronics Engineering",
+            "Bachelor of Science in Mechanical Engineering",
+            "Bachelor of Science in Chemical Engineering",
+            "Bachelor of Science in Mining Engineering",
+            "Bachelor of Science in Geodetic Engineering",
+            "Bachelor of Science in Geology",
+            "Bachelor of Science in Architecture",
+            "Bachelor of Science in Urban and Regional Planning",
+            "Bachelor of Science in Journalism / Film and Audiovisual Communication",
+            "Bachelor of Music (BMus)",
+            "Bachelor of Fine Arts (BFA)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Juris Doctor (JD / Law)",
+            "Bachelor of Science in Home Economics",
+            "Bachelor of Science in Nutrition",
+            "Bachelor of Science in Library and Information Science",
+            "Bachelor of Physical Education",
+            "Master of Science / Master of Arts (190+ graduate programs)",
+            "Doctor of Philosophy (PhD) in various disciplines (381+ graduate programs)"
+          ],
+          "tuition": {
+            "undergraduate": "Free under RA 10931 for qualified students (Socialized Tuition System). Without subsidy: approx. PHP 1,500/unit (21-unit load = ~PHP 31,500 + misc fees ~PHP 37,243 total per semester).",
+            "graduate": "PHP 2,500 per unit (standard); PHP 2,000/unit for government employees",
+            "note": "UPD uses the Socialized Tuition and Financial Assistance Program (STFAP); most Filipino students pay minimal to zero tuition."
+          }
+        },
+        {
+          "name": "Ateneo de Manila University (ADMU)",
+          "type": "Private",
+          "website": "https://www.ateneo.edu",
+          "info": "A prestigious Jesuit university known for its liberal arts and management programs.",
+          "ph_ranking": "#2 in Philippines (QS Asia 2026 — 141st in Asia; QS World 2026 — 511th globally)",
+          "qs_asia_rank_2026": 141,
+          "acceptance_rate": "~10-19% (extremely selective; uses ACET entrance exam)",
+          "total_estimated_students": "~10,000-14,999",
+          "programs": [
+            "Bachelor of Arts in Social Sciences (various majors)",
+            "Bachelor of Science in Management (BSM)",
+            "Bachelor of Science in Management Engineering",
+            "Bachelor of Science in Applied Mathematics",
+            "Bachelor of Arts in Philosophy",
+            "Bachelor of Arts in English / Literature",
+            "Bachelor of Arts in History",
+            "Bachelor of Arts in Political Science",
+            "Bachelor of Arts in Psychology",
+            "Bachelor of Arts in Interdisciplinary Studies",
+            "Bachelor of Science in Biology",
+            "Bachelor of Science in Chemistry",
+            "Bachelor of Science in Physics",
+            "Bachelor of Science in Environmental Science",
+            "Bachelor of Science in Computer Science (BSCS)",
+            "Bachelor of Science in Computer Engineering",
+            "Bachelor of Science in Electronics and Communications Engineering",
+            "Bachelor of Science in Information Systems",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Arts in Fine Arts",
+            "Juris Doctor (JD / Law)",
+            "Doctor of Medicine (MD — Ateneo School of Medicine and Public Health)",
+            "Master of Business Administration (MBA)",
+            "Master of Science in various fields",
+            "Doctor of Philosophy (PhD) in various disciplines"
+          ],
+          "tuition": {
+            "undergraduate_standard_SY2024_2025": "approx. PHP 78,000-120,000 per semester",
+            "arts_social_sciences": "approx. PHP 78,000-88,000 per semester",
+            "sciences_engineering": "approx. PHP 95,000-120,000 per semester (higher due to lab fees)",
+            "management": "approx. PHP 83,000-95,000 per semester",
+            "law_jd": "Contact Ateneo Law School for current rates",
+            "medicine_asmp": "approx. PHP 150,000-250,000 per year",
+            "graduate": "PHP 50,000-80,000 per semester",
+            "note": "Visit https://www.ateneo.edu/college/tuition-fees for SY 2026-2027 schedule"
+          }
+        },
+        {
+          "name": "Miriam College",
+          "type": "Private",
+          "website": "https://www.mc.edu.ph",
+          "info": "A premier women's college (co-ed since 1999) known for communication, education, and arts.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~60-75% (uses Miriam College entrance exam)",
+          "total_estimated_students": "~5,000-8,000",
+          "programs": [
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Arts in International Studies",
+            "Bachelor of Arts in Psychology",
+            "Bachelor of Arts in Development Studies",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Fine Arts",
+            "Bachelor of Science in Environmental Science",
+            "Master of Arts in Education (MAEd)",
+            "Master of Arts in Communication"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 50,000-80,000 per semester",
+            "arts_communication": "approx. PHP 52,000-65,000 per semester",
+            "business_accountancy": "approx. PHP 55,000-70,000 per semester"
+          }
+        },
+        {
+          "name": "Quezon City University (QCU)",
+          "type": "Public",
+          "website": "https://www.qcu.edu.ph",
+          "info": "A local government-funded university providing affordable education to QC residents.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~60-80% (priority for QC residents; uses QCU entrance exam)",
+          "total_estimated_students": "~10,000-15,000",
+          "programs": [
+            "Bachelor of Public Administration",
+            "Bachelor of Science in Entrepreneurship",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Computer Engineering",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Criminology"
+          ],
+          "tuition": {
+            "qc_residents": "Free (city-funded for qualified QC residents). Miscellaneous fees: approx. PHP 1,000-2,000 per semester."
+          }
+        },
+        {
+          "name": "Trinity University of Asia",
+          "type": "Private",
+          "website": "https://www.trinity.edu.ph",
+          "info": "A respected private university known for its nursing and medical technology programs.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85%",
+          "total_estimated_students": "~5,000-8,000",
+          "programs": [
+            "Bachelor of Arts in Liberal Arts",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Medical Laboratory Science",
+            "Bachelor of Science in Radiologic Technology",
+            "Bachelor of Science in Pharmacy (BSPharm)",
+            "Bachelor of Science in Psychology"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 40,000-65,000 per semester",
+            "nursing_allied_health": "approx. PHP 50,000-65,000 per semester"
+          }
+        },
+        {
+          "name": "Technological Institute of the Philippines (TIP) - QC",
+          "type": "Private",
+          "website": "https://www.tip.edu.ph",
+          "info": "Specializes in engineering and technical courses with industry-aligned curricula.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85%",
+          "total_estimated_students": "~15,000-20,000 (QC and Manila campuses combined)",
+          "programs": [
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Electronics Engineering",
+            "Bachelor of Science in Mechanical Engineering",
+            "Bachelor of Science in Industrial Engineering",
+            "Bachelor of Science in Computer Engineering",
+            "Bachelor of Science in Architecture",
+            "Bachelor of Science in Computer Science (BSCS)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Secondary Education (BSEd)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 35,000-55,000 per semester",
+            "engineering_architecture": "approx. PHP 40,000-55,000 per semester",
+            "business_it": "approx. PHP 35,000-48,000 per semester"
+          }
+        },
+        {
+          "name": "New Era University (NEU)",
+          "type": "Private",
+          "website": "https://www.neu.edu.ph",
+          "info": "A non-sectarian university known for its discipline and diverse course offerings.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85%",
+          "total_estimated_students": "~8,000-12,000",
+          "programs": [
+            "Doctor of Medicine (MD)",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Mechanical Engineering",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Secondary Education (BSEd)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 30,000-50,000 per semester",
+            "medicine": "approx. PHP 100,000-150,000 per year"
+          }
+        },
+        {
+          "name": "AMA Computer University",
+          "type": "Private",
+          "website": "https://www.amau.edu.ph",
+          "info": "A pioneer in ICT education in the Philippines.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~80-90% (relatively open enrollment)",
+          "total_estimated_students": "~15,000-20,000 (across all AMA campuses)",
+          "programs": [
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Computer Science (BSCS)",
+            "Bachelor of Science in Computer Engineering",
+            "Bachelor of Science in Electronics Engineering",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Multimedia Arts",
+            "Bachelor of Science in Game Technology",
+            "Associate in Computer Technology"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 30,000-55,000 per semester"
+          }
+        },
+        {
+          "name": "STI College - Quezon City",
+          "type": "Private",
+          "website": "https://www.sti.edu",
+          "info": "Part of a large network of colleges focusing on IT and tourism education.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~80-90% (open enrollment policy)",
+          "total_estimated_students": "~5,000-8,000 (QC campus; STI has 70+ campuses nationwide)",
+          "programs": [
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Tourism Management (BSTM)",
+            "Bachelor of Science in Hospitality Management (BSHM)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Computer Engineering",
+            "Bachelor of Science in Electronics Engineering"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 30,000-50,000 per semester"
+          }
+        },
+        {
+          "name": "National College of Business and Arts (NCBA)",
+          "type": "Private",
+          "website": "https://ncba.edu.ph",
+          "info": "Specializes in business, accountancy, and secretarial courses.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~85-95% (open enrollment)",
+          "total_estimated_students": "~3,000-5,000",
+          "programs": [
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Criminology"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 25,000-40,000 per semester"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Makati",
+      "universities": [
+        {
+          "name": "University of Makati (UMak)",
+          "type": "Public",
+          "website": "https://umak.edu.ph",
+          "info": "A city-funded university offering a wide range of academic and technical programs.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~65-80% (priority for Makati residents; entrance exam required)",
+          "total_estimated_students": "~12,000-18,000",
+          "programs": [
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Criminology",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Public Administration",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering"
+          ],
+          "tuition": {
+            "makati_residents": "Free (city-funded for Makati residents). Miscellaneous fees: approx. PHP 1,000-3,000 per semester.",
+            "non_residents": "Nominal tuition scheme may apply; contact UMak Registrar"
+          }
+        },
+        {
+          "name": "Asia Pacific College (APC)",
+          "type": "Private",
+          "website": "https://www.apc.edu.ph",
+          "info": "A partnership between SM Foundation and IBM, specializing in IT, computer science, and business.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~60-75% (uses APC entrance exam)",
+          "total_estimated_students": "~3,000-5,000",
+          "programs": [
+            "Bachelor of Science in Computer Science (BSCS)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Computer Engineering",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Science in Multimedia Arts",
+            "Bachelor of Science in Engineering (various tracks)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 50,000-80,000 per semester"
+          }
+        },
+        {
+          "name": "Assumption College",
+          "type": "Private",
+          "website": "https://www.assumption.edu.ph",
+          "info": "A premier Catholic women's college in San Lorenzo Village, Makati.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~40-60% (selective; uses admission exam; women's college)",
+          "total_estimated_students": "~2,500-4,000",
+          "programs": [
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Arts in Interior Design",
+            "Bachelor of Arts in Psychology",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Arts in Development Studies"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 70,000-110,000 per semester"
+          }
+        },
+        {
+          "name": "Asian Institute of Management (AIM)",
+          "type": "Private",
+          "website": "https://www.aim.edu",
+          "info": "A leading international graduate school of business; primarily a postgraduate institution.",
+          "ph_ranking": "Not ranked in QS Asia 2026 (graduate-only institution)",
+          "qs_asia_rank_2026": "Not ranked (graduate/professional school)",
+          "acceptance_rate": "~30-45% (very selective; requires work experience + GMAT/GRE)",
+          "total_estimated_students": "~500-1,500 (graduate students only)",
+          "programs": [
+            "Master of Business Administration (MBA)",
+            "Executive MBA (EMBA)",
+            "Master of Science in Data Science",
+            "Master of Entrepreneurship",
+            "Master of Development Management",
+            "Doctor of Business Administration (DBA)",
+            "Various executive and professional development programs"
+          ],
+          "tuition": {
+            "mba": "approx. PHP 1,000,000-1,500,000+ (total program cost)",
+            "masters_programs": "approx. PHP 700,000-1,200,000 (total program cost)",
+            "note": "AIM is a graduate institution. Visit https://www.aim.edu for current fees."
+          }
+        },
+        {
+          "name": "International Academy of Management and Economics (IAME)",
+          "type": "Private",
+          "website": "https://www.iame.edu.ph",
+          "info": "A specialized business and management school.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85%",
+          "total_estimated_students": "~1,000-3,000",
+          "programs": [
+            "Bachelor of Science in Business Management",
+            "Bachelor of Science in Economics",
+            "Bachelor of Arts in Leadership Studies",
+            "Master of Business Administration (MBA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 40,000-65,000 per semester"
+          }
+        },
+        {
+          "name": "Centro Escolar University (CEU) - Makati",
+          "type": "Private",
+          "website": "https://www.ceu.edu.ph",
+          "info": "Makati campus specializing in professional studies and business.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~65-80%",
+          "total_estimated_students": "~3,000-5,000 (Makati campus)",
+          "programs": [
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Science in Tourism Management (BSTM)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Psychology",
+            "Bachelor of Arts in Communication"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 50,000-75,000 per semester"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Taguig",
+      "universities": [
+        {
+          "name": "Taguig City University (TCU)",
+          "type": "Public",
+          "website": "https://tcu.edu.ph",
+          "info": "A local university serving the residents of Taguig with diverse course offerings.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85% (priority for Taguig residents)",
+          "total_estimated_students": "~5,000-8,000",
+          "programs": [
+            "Bachelor of Public Administration",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Criminology",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Information Technology (BSIT)"
+          ],
+          "tuition": {
+            "taguig_residents": "Free (city-funded for Taguig residents). Miscellaneous fees: approx. PHP 1,000-2,000 per semester."
+          }
+        },
+        {
+          "name": "Technological University of the Philippines (TUP) - Taguig",
+          "type": "Public",
+          "website": "https://www.tup.edu.ph",
+          "info": "Specializes in engineering and technical education.",
+          "ph_ranking": "#26 in Philippines (part of TUP system; QS Asia 2026 — 1,301-1,400th in Asia)",
+          "qs_asia_rank_2026": "1301-1400 (TUP system)",
+          "acceptance_rate": "~50-65% (uses TUPCAT)",
+          "total_estimated_students": "~5,000-8,000 (Taguig campus)",
+          "programs": [
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Electronics Engineering",
+            "Bachelor of Science in Mechanical Engineering",
+            "Bachelor of Science in Industrial Engineering",
+            "Bachelor of Science in Computer Engineering",
+            "Bachelor of Technology (various majors)",
+            "Bachelor of Technical Teacher Education"
+          ],
+          "tuition": {
+            "undergraduate": "Free under RA 10931. Miscellaneous fees: approx. PHP 500-1,500 per semester."
+          }
+        },
+        {
+          "name": "Enderun Colleges",
+          "type": "Private",
+          "website": "https://www.enderuncolleges.com",
+          "info": "A high-end international college in BGC known for hospitality, business, and culinary arts.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~40-60% (selective; international standard admissions)",
+          "total_estimated_students": "~1,000-2,500",
+          "programs": [
+            "Bachelor of Science in Hospitality Management (BSHM)",
+            "Bachelor of Science in International Hospitality Management",
+            "Bachelor of Science in Culinary Arts",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Economics",
+            "Master of Science in Hospitality Management"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 150,000-250,000 per semester (among the highest in PH)",
+            "hospitality_culinary": "approx. PHP 180,000-250,000 per semester",
+            "business_economics": "approx. PHP 150,000-200,000 per semester"
+          }
+        },
+        {
+          "name": "Treston International College",
+          "type": "Private",
+          "website": "https://treston.edu.ph",
+          "info": "Offers international standard programs in business and hospitality.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~65-80%",
+          "total_estimated_students": "~1,500-3,000",
+          "programs": [
+            "Bachelor of Science in Culinary Arts",
+            "Bachelor of Science in Hospitality Management (BSHM)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Tourism Management (BSTM)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 80,000-130,000 per semester"
+          }
+        },
+        {
+          "name": "Global City Innovative College (GCIC)",
+          "type": "Private",
+          "website": "https://gcic.edu.ph",
+          "info": "A modern college in BGC offering specialized undergraduate programs.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85%",
+          "total_estimated_students": "~1,000-2,500",
+          "programs": [
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Tourism Management (BSTM)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 45,000-70,000 per semester"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Caloocan",
+      "universities": [
+        {
+          "name": "University of Caloocan City (UCC)",
+          "type": "Public",
+          "website": "https://ucc.edu.ph",
+          "info": "A city-run university with several campuses in Caloocan.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~75-90% (open for Caloocan residents)",
+          "total_estimated_students": "~8,000-12,000",
+          "programs": [
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Arts in Liberal Arts",
+            "Bachelor of Science in Criminology",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Information Technology (BSIT)"
+          ],
+          "tuition": {
+            "caloocan_residents": "Free (city-funded). Miscellaneous fees: approx. PHP 500-1,500 per semester."
+          }
+        },
+        {
+          "name": "Manila Central University (MCU)",
+          "type": "Private",
+          "website": "https://www.mcu.edu.ph",
+          "info": "Known for its health science and medical programs.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~65-80%",
+          "total_estimated_students": "~8,000-12,000",
+          "programs": [
+            "Doctor of Dental Medicine (DMD)",
+            "Doctor of Medicine (MD)",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Pharmacy (BSPharm)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Medical Laboratory Science"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 40,000-70,000 per semester",
+            "dentistry_dmd": "approx. PHP 120,000-160,000 per year",
+            "medicine_md": "approx. PHP 130,000-180,000 per year"
+          }
+        },
+        {
+          "name": "University of the East (UE) - Caloocan",
+          "type": "Private",
+          "website": "https://www.ue.edu.ph",
+          "info": "The northern campus of UE, offering diverse programs.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~65-75%",
+          "total_estimated_students": "~6,000-10,000 (Caloocan campus)",
+          "programs": [
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Electronics Engineering",
+            "Bachelor of Arts in Liberal Arts",
+            "Bachelor of Fine Arts",
+            "Bachelor of Science in Business Administration (BSBA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 45,000-65,000 per semester"
+          }
+        },
+        {
+          "name": "St. Clare College of Caloocan",
+          "type": "Private",
+          "website": "https://stclarec.edu.ph",
+          "info": "A private college providing affordable education to the Caloocan community.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~80-90%",
+          "total_estimated_students": "~2,000-4,000",
+          "programs": [
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Criminology"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 20,000-35,000 per semester"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Valenzuela",
+      "universities": [
+        {
+          "name": "Pamantasan ng Lungsod ng Valenzuela (PLV)",
+          "type": "Public",
+          "website": "https://plv.edu.ph",
+          "info": "The primary public university for Valenzuela residents.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85% (priority for Valenzuela residents)",
+          "total_estimated_students": "~8,000-12,000",
+          "programs": [
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering"
+          ],
+          "tuition": {
+            "valenzuela_residents": "Free (city-funded). Miscellaneous fees: approx. PHP 1,000-2,000 per semester."
+          }
+        },
+        {
+          "name": "Our Lady of Fatima University (OLFU)",
+          "type": "Private",
+          "website": "https://www.fatima.edu.ph",
+          "info": "A major private university known for its medical and allied health programs.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~65-80%",
+          "total_estimated_students": "~25,000-35,000 (across all OLFU campuses)",
+          "programs": [
+            "Doctor of Medicine (MD)",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Criminology",
+            "Bachelor of Science in Medical Laboratory Science",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Pharmacy (BSPharm)",
+            "Bachelor of Science in Radiologic Technology",
+            "Bachelor of Science in Physical Therapy",
+            "Bachelor of Science in Accountancy (BSA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 40,000-65,000 per semester",
+            "nursing_allied_health": "approx. PHP 50,000-65,000 per semester",
+            "medicine_md": "approx. PHP 120,000-180,000 per year"
+          }
+        },
+        {
+          "name": "Valenzuela City Polytechnic College",
+          "type": "Public",
+          "website": "https://vcpc.edu.ph",
+          "info": "Focused on technical and vocational education for the city.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~75-90%",
+          "total_estimated_students": "~3,000-5,000",
+          "programs": [
+            "Bachelor of Technology (various majors)",
+            "Bachelor of Technical Teacher Education",
+            "Associate in Industrial Technology",
+            "TESDA-aligned technical courses"
+          ],
+          "tuition": {
+            "undergraduate": "Free (city-funded for residents). Miscellaneous fees apply."
+          }
+        },
+        {
+          "name": "St. Louis College Valenzuela",
+          "type": "Private",
+          "website": "Contact institution for website",
+          "info": "A private educational institution providing local access to degree programs.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~80-90%",
+          "total_estimated_students": "~2,000-4,000",
+          "programs": [
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Information Technology (BSIT)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 25,000-40,000 per semester"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Malabon",
+      "universities": [
+        {
+          "name": "City of Malabon University (CMU)",
+          "type": "Public",
+          "website": "https://cmu.edu.ph",
+          "info": "Serves the Malabon community with affordable higher education.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~75-90% (priority for Malabon residents)",
+          "total_estimated_students": "~5,000-8,000",
+          "programs": [
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Criminology",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Information Technology (BSIT)"
+          ],
+          "tuition": {
+            "malabon_residents": "Free (city-funded). Miscellaneous fees: approx. PHP 500-1,500 per semester."
+          }
+        },
+        {
+          "name": "De La Salle Araneta University (DLSAU)",
+          "type": "Private",
+          "website": "https://www.dlsau.edu.ph",
+          "info": "A member of the De La Salle Philippines system, known for veterinary medicine and agriculture.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~65-80%",
+          "total_estimated_students": "~5,000-8,000",
+          "programs": [
+            "Doctor of Veterinary Medicine (DVM)",
+            "Bachelor of Science in Agriculture",
+            "Bachelor of Science in Agribusiness Management",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Accountancy (BSA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 40,000-65,000 per semester",
+            "veterinary_medicine": "approx. PHP 80,000-120,000 per year"
+          }
+        },
+        {
+          "name": "Arellano University - Malabon",
+          "type": "Private",
+          "website": "https://www.arellano.edu.ph",
+          "info": "The Malabon campus of Arellano University.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85%",
+          "total_estimated_students": "~3,000-5,000 (Malabon campus)",
+          "programs": [
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Criminology"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 30,000-50,000 per semester"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Navotas",
+      "universities": [
+        {
+          "name": "Navotas Polytechnic College (NPC)",
+          "type": "Public",
+          "website": "https://npc.edu.ph",
+          "info": "The local government-funded college in Navotas.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~75-90% (open to Navotas residents)",
+          "total_estimated_students": "~3,000-6,000",
+          "programs": [
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Criminology",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Information Technology (BSIT)"
+          ],
+          "tuition": {
+            "navotas_residents": "Free (city-funded). Miscellaneous fees apply."
+          }
+        },
+        {
+          "name": "Governor Andres Pascual College",
+          "type": "Private",
+          "website": "https://www.gapc.edu.ph",
+          "info": "A long-standing private college in Navotas.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~80-90%",
+          "total_estimated_students": "~2,000-4,000",
+          "programs": [
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Accountancy (BSA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 25,000-40,000 per semester"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pasig",
+      "universities": [
+        {
+          "name": "Pamantasan ng Lungsod ng Pasig (PLP)",
+          "type": "Public",
+          "website": "https://plp.edu.ph",
+          "info": "Provides quality higher education to Pasig residents.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85% (priority for Pasig residents)",
+          "total_estimated_students": "~5,000-8,000",
+          "programs": [
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Criminology",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Information Technology (BSIT)"
+          ],
+          "tuition": {
+            "pasig_residents": "Free (city-funded). Miscellaneous fees: approx. PHP 1,000-2,000 per semester."
+          }
+        },
+        {
+          "name": "University of Asia and the Pacific (UA&P)",
+          "type": "Private",
+          "website": "https://www.uap.asia",
+          "info": "A private research university known for economics, business, and communication programs.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~40-55% (selective; uses UA&P entrance exam)",
+          "total_estimated_students": "~2,000-4,000",
+          "programs": [
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Management (BSM)",
+            "Bachelor of Arts in Communication",
+            "Bachelor of Arts in Political Economy",
+            "Bachelor of Science in Economics",
+            "Master of Business Administration (MBA)",
+            "Master of Science in Finance"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 90,000-140,000 per semester"
+          }
+        },
+        {
+          "name": "Pasig Catholic College",
+          "type": "Private",
+          "website": "https://www.pcc.edu.ph",
+          "info": "A respected Catholic institution in the heart of Pasig.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~75-88%",
+          "total_estimated_students": "~3,000-5,000",
+          "programs": [
+            "Bachelor of Science in Hospitality Management (BSHM)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Business Administration (BSBA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 30,000-50,000 per semester"
+          }
+        },
+        {
+          "name": "Arellano University - Pasig",
+          "type": "Private",
+          "website": "https://www.arellano.edu.ph",
+          "info": "The Pasig campus of Arellano University.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85%",
+          "total_estimated_students": "~3,000-5,000 (Pasig campus)",
+          "programs": [
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Information Technology (BSIT)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 30,000-50,000 per semester"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mandaluyong",
+      "universities": [
+        {
+          "name": "Rizal Technological University (RTU)",
+          "type": "Public",
+          "website": "https://rtu.edu.ph",
+          "info": "A state university specializing in technology and engineering.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~50-65% (uses RTUCET entrance exam)",
+          "total_estimated_students": "~15,000-20,000 (across all RTU campuses)",
+          "programs": [
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Electronics Engineering",
+            "Bachelor of Science in Mechanical Engineering",
+            "Bachelor of Science in Industrial Engineering",
+            "Bachelor of Science in Computer Engineering",
+            "Bachelor of Science in Architecture",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Technical Teacher Education"
+          ],
+          "tuition": {
+            "undergraduate": "Free under RA 10931. Miscellaneous fees: approx. PHP 1,000-2,500 per semester."
+          }
+        },
+        {
+          "name": "Jose Rizal University (JRU)",
+          "type": "Private",
+          "website": "https://www.jru.edu",
+          "info": "Known for its business, accountancy, nursing, and law programs.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85%",
+          "total_estimated_students": "~8,000-12,000",
+          "programs": [
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Juris Doctor (JD / Law)",
+            "Master of Business Administration (MBA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 35,000-55,000 per semester",
+            "law": "approx. PHP 55,000-70,000 per semester"
+          }
+        },
+        {
+          "name": "Don Bosco Technical College (DBTC)",
+          "type": "Private",
+          "website": "https://dbtc.edu.ph",
+          "info": "Renowned for its technical and engineering education within the Salesians network.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~65-80%",
+          "total_estimated_students": "~3,000-6,000",
+          "programs": [
+            "Bachelor of Science in Architecture",
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Mechanical Engineering",
+            "Bachelor of Science in Electronics Engineering",
+            "Bachelor of Secondary Education (BSEd) — Technology and Livelihood Education",
+            "Bachelor of Science in Information Technology (BSIT)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 40,000-65,000 per semester",
+            "engineering_architecture": "approx. PHP 50,000-65,000 per semester"
+          }
+        },
+        {
+          "name": "Arellano University - Mandaluyong",
+          "type": "Private",
+          "website": "https://www.arellano.edu.ph",
+          "info": "The Mandaluyong campus of Arellano University.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85%",
+          "total_estimated_students": "~3,000-5,000 (Mandaluyong campus)",
+          "programs": [
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Criminology"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 30,000-50,000 per semester"
+          }
+        }
+      ]
+    },
+    {
+      "name": "San Juan",
+      "universities": [
+        {
+          "name": "Polytechnic University of the Philippines (PUP) - San Juan",
+          "type": "Public",
+          "website": "https://www.pup.edu.ph",
+          "info": "The San Juan campus of the PUP system.",
+          "ph_ranking": "#8 in Philippines (part of PUP System; QS Asia 2026 — 671st in Asia)",
+          "qs_asia_rank_2026": "671 (PUP system)",
+          "acceptance_rate": "~50-65% (uses PUPCET)",
+          "total_estimated_students": "~3,000-6,000 (San Juan campus)",
+          "programs": [
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Information Technology (BSIT)"
+          ],
+          "tuition": {
+            "undergraduate": "Free under RA 10931. Symbolic tuition PHP 12/unit. Misc fees: approx. PHP 500-1,500 per semester."
+          }
+        },
+        {
+          "name": "Dominican College",
+          "type": "Private",
+          "website": "https://www.dominican.edu.ph",
+          "info": "A private Catholic college offering diverse programs in San Juan.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85%",
+          "total_estimated_students": "~3,000-5,000",
+          "programs": [
+            "Bachelor of Science in Hospitality Management (BSHM)",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Arts in Liberal Arts",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Accountancy (BSA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 30,000-50,000 per semester"
+          }
+        },
+        {
+          "name": "Informatics College - San Juan",
+          "type": "Private",
+          "website": "https://www.informatics.edu.ph",
+          "info": "Specializes in IT and computer education.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~80-90%",
+          "total_estimated_students": "~1,000-3,000 (San Juan campus)",
+          "programs": [
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Computer Science (BSCS)",
+            "Bachelor of Science in Business Administration (BSBA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 25,000-45,000 per semester"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marikina",
+      "universities": [
+        {
+          "name": "Pamantasan ng Lungsod ng Marikina (PLMar)",
+          "type": "Public",
+          "website": "https://plmar.edu.ph",
+          "info": "A city university providing affordable education to Marikina residents.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85% (priority for Marikina residents)",
+          "total_estimated_students": "~5,000-8,000",
+          "programs": [
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Criminology",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Information Technology (BSIT)"
+          ],
+          "tuition": {
+            "marikina_residents": "Free (city-funded). Miscellaneous fees: approx. PHP 1,000-2,000 per semester."
+          }
+        },
+        {
+          "name": "Marikina Polytechnic College (MPC)",
+          "type": "Public",
+          "website": "https://mpc.edu.ph",
+          "info": "Specializes in technical and vocational teacher education.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~75-90%",
+          "total_estimated_students": "~2,000-4,000",
+          "programs": [
+            "Bachelor of Technical Teacher Education (BTTE)",
+            "Bachelor of Technology (various majors)"
+          ],
+          "tuition": {
+            "undergraduate": "Free under RA 10931. Miscellaneous fees apply."
+          }
+        },
+        {
+          "name": "Roosevelt College Marikina",
+          "type": "Private",
+          "website": "https://rooseveltcollege.edu.ph",
+          "info": "A private educational institution part of the FEU system.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~75-88%",
+          "total_estimated_students": "~3,000-5,000",
+          "programs": [
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Tourism Management (BSTM)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 30,000-50,000 per semester"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Parañaque",
+      "universities": [
+        {
+          "name": "Parañaque City College (PCC)",
+          "type": "Public",
+          "website": "https://pcc.edu.ph",
+          "info": "Provides affordable higher education to Parañaque residents.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~75-90% (priority for Parañaque residents)",
+          "total_estimated_students": "~3,000-6,000",
+          "programs": [
+            "Bachelor of Science in Hospitality Management (BSHM)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Information Technology (BSIT)"
+          ],
+          "tuition": {
+            "paranaque_residents": "Free (city-funded). Miscellaneous fees: approx. PHP 1,000-2,000 per semester."
+          }
+        },
+        {
+          "name": "PATTS College of Aeronautics",
+          "type": "Private",
+          "website": "https://www.patts.edu.ph",
+          "info": "A premier institution for aviation and aeronautical education in the Philippines.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~50-70% (selective due to medical/physical fitness requirements)",
+          "total_estimated_students": "~5,000-8,000",
+          "programs": [
+            "Bachelor of Science in Aeronautical Engineering",
+            "Bachelor of Science in Airline Operations Management",
+            "Bachelor of Science in Aircraft Maintenance Technology",
+            "Bachelor of Science in Tourism Management (BSTM)",
+            "Bachelor of Science in Business Administration (BSBA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 45,000-70,000 per semester",
+            "aeronautical_engineering": "approx. PHP 55,000-70,000 per semester",
+            "airline_operations_aircraft": "approx. PHP 45,000-65,000 per semester"
+          }
+        },
+        {
+          "name": "Olivarez College",
+          "type": "Private",
+          "website": "https://olivarezcollege.edu.ph",
+          "info": "Known for its nursing and health-related programs.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85%",
+          "total_estimated_students": "~4,000-7,000",
+          "programs": [
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Criminology",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Medical Laboratory Science"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 35,000-55,000 per semester",
+            "nursing": "approx. PHP 45,000-55,000 per semester"
+          }
+        },
+        {
+          "name": "Don Bosco College - Parañaque",
+          "type": "Private",
+          "website": "https://donboscoph.com",
+          "info": "A technical-vocation focused college in the Don Bosco network.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85%",
+          "total_estimated_students": "~1,500-3,000",
+          "programs": [
+            "Bachelor of Technical Teacher Education (BTTE)",
+            "Bachelor of Secondary Education (BSEd) — Technology and Livelihood Education",
+            "Associate programs in Technical-Vocational Education"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 25,000-45,000 per semester"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pasay",
+      "universities": [
+        {
+          "name": "City University of Pasay (CUP)",
+          "type": "Public",
+          "website": "https://cup.edu.ph",
+          "info": "The local government university for Pasay residents.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~75-90% (priority for Pasay residents)",
+          "total_estimated_students": "~3,000-6,000",
+          "programs": [
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Criminology",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Information Technology (BSIT)"
+          ],
+          "tuition": {
+            "pasay_residents": "Free (city-funded). Miscellaneous fees: approx. PHP 1,000-2,000 per semester."
+          }
+        },
+        {
+          "name": "Philippine State College of Aeronautics (PhilSCA)",
+          "type": "Public",
+          "website": "https://philsca.edu.ph",
+          "info": "The only state college in the Philippines offering aeronautics courses.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~40-60% (selective; strict medical/physical fitness standards)",
+          "total_estimated_students": "~3,000-6,000 (across PhilSCA campuses)",
+          "programs": [
+            "Bachelor of Science in Aeronautical Engineering",
+            "Bachelor of Science in Aviation Management",
+            "Bachelor of Science in Air Transportation",
+            "Aircraft Maintenance Technology (AMT)"
+          ],
+          "tuition": {
+            "undergraduate": "Free under RA 10931. Miscellaneous/lab fees apply."
+          }
+        },
+        {
+          "name": "Manila Tytana Colleges",
+          "type": "Private",
+          "website": "https://www.tytana.edu.ph",
+          "info": "An educational institution under the Metrobank Group, known for nursing and health sciences.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~60-75%",
+          "total_estimated_students": "~3,000-5,000",
+          "programs": [
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Medical Laboratory Science",
+            "Bachelor of Science in Hospitality Management (BSHM)",
+            "Bachelor of Science in Psychology"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 45,000-75,000 per semester",
+            "nursing": "approx. PHP 55,000-70,000 per semester"
+          }
+        },
+        {
+          "name": "Manila Adventist College",
+          "type": "Private",
+          "website": "https://www.mac.edu.ph",
+          "info": "A private Christian college known for its nursing and health programs.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85%",
+          "total_estimated_students": "~2,000-4,000",
+          "programs": [
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Medical Laboratory Science",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Accountancy (BSA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 40,000-65,000 per semester",
+            "nursing_medical_tech": "approx. PHP 50,000-65,000 per semester"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Las Piñas",
+      "universities": [
+        {
+          "name": "University of Perpetual Help System DALTA (UPHSD)",
+          "type": "Private",
+          "website": "https://www.perpetualdalta.edu.ph",
+          "info": "A major university system known for medicine, nursing, maritime, and engineering.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~65-80%",
+          "total_estimated_students": "~20,000-30,000 (across all UPHSD campuses)",
+          "programs": [
+            "Doctor of Medicine (MD)",
+            "Bachelor of Science in Maritime Transportation",
+            "Bachelor of Science in Marine Engineering",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Mechanical Engineering",
+            "Bachelor of Science in Electronics Engineering",
+            "Bachelor of Science in Aviation Technology",
+            "Juris Doctor (JD / Law)",
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Secondary Education (BSEd)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 50,000-85,000 per semester",
+            "medicine_md": "approx. PHP 130,000-180,000 per year",
+            "maritime": "approx. PHP 60,000-80,000 per semester",
+            "law": "approx. PHP 65,000-85,000 per semester"
+          }
+        },
+        {
+          "name": "Southville International School and Colleges",
+          "type": "Private",
+          "website": "https://www.southville.edu.ph",
+          "info": "An international standard institution offering diverse programs.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~55-70%",
+          "total_estimated_students": "~3,000-6,000",
+          "programs": [
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Multimedia Arts",
+            "Bachelor of Science in Psychology",
+            "Bachelor of Science in Tourism Management (BSTM)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 70,000-120,000 per semester"
+          }
+        },
+        {
+          "name": "Dr. Filemon C. Aguilar Memorial College",
+          "type": "Public",
+          "website": "https://dfcamc.edu.ph",
+          "info": "A local public college for Las Piñas residents.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~80-90% (priority for Las Piñas residents)",
+          "total_estimated_students": "~1,000-3,000",
+          "programs": [
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Science in Business Administration (BSBA)"
+          ],
+          "tuition": {
+            "las_pinas_residents": "Free (city-funded). Miscellaneous fees apply."
+          }
+        },
+        {
+          "name": "Saint Francis of Assisi College - Las Piñas",
+          "type": "Private",
+          "website": "https://sfac.edu.ph",
+          "info": "A private educational institution providing affordable degree programs.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~80-90%",
+          "total_estimated_students": "~2,000-4,000",
+          "programs": [
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Tourism Management (BSTM)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 25,000-45,000 per semester"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muntinlupa",
+      "universities": [
+        {
+          "name": "Pamantasan ng Lungsod ng Muntinlupa (PLMun)",
+          "type": "Public",
+          "website": "https://plmun.edu.ph",
+          "info": "A city-run university serving the Muntinlupa community.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~70-85% (priority for Muntinlupa residents)",
+          "total_estimated_students": "~5,000-8,000",
+          "programs": [
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Nursing (BSN)",
+            "Bachelor of Science in Criminology",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Elementary Education (BEEd)",
+            "Bachelor of Science in Information Technology (BSIT)"
+          ],
+          "tuition": {
+            "muntinlupa_residents": "Free (city-funded). Miscellaneous fees: approx. PHP 1,000-2,000 per semester."
+          }
+        },
+        {
+          "name": "San Beda College - Alabang",
+          "type": "Private",
+          "website": "https://www.sanbeda.edu.ph",
+          "info": "The Alabang campus of San Beda University, offering top-tier education in the south.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~50-65% (selective)",
+          "total_estimated_students": "~4,000-7,000 (Alabang campus)",
+          "programs": [
+            "Bachelor of Science in Accountancy (BSA)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Juris Doctor (JD / Law)",
+            "Bachelor of Science in Psychology",
+            "Bachelor of Arts in Communication"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 70,000-110,000 per semester",
+            "law": "approx. PHP 90,000-120,000 per semester"
+          }
+        },
+        {
+          "name": "FEU Alabang",
+          "type": "Private",
+          "website": "https://feualabang.edu.ph",
+          "info": "Specializes in engineering, business, and technology.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~60-75%",
+          "total_estimated_students": "~3,000-6,000",
+          "programs": [
+            "Bachelor of Science in Computer Science (BSCS)",
+            "Bachelor of Science in Civil Engineering",
+            "Bachelor of Science in Electrical Engineering",
+            "Bachelor of Science in Electronics Engineering",
+            "Bachelor of Science in Mechanical Engineering",
+            "Bachelor of Science in Information Technology (BSIT)",
+            "Bachelor of Science in Business Administration (BSBA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 60,000-90,000 per semester",
+            "engineering": "approx. PHP 65,000-90,000 per semester"
+          }
+        },
+        {
+          "name": "West Bay College",
+          "type": "Private",
+          "website": "https://westbay.edu.ph",
+          "info": "A maritime college focused on producing competitive seafarers.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~65-80%",
+          "total_estimated_students": "~2,000-4,000",
+          "programs": [
+            "Bachelor of Science in Marine Transportation",
+            "Bachelor of Science in Marine Engineering",
+            "Bachelor of Science in Business Administration (BSBA)"
+          ],
+          "tuition": {
+            "undergraduate": "approx. PHP 35,000-55,000 per semester",
+            "maritime": "approx. PHP 40,000-55,000 per semester"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pateros (Municipality)",
+      "universities": [
+        {
+          "name": "Pateros Technological College (PTC)",
+          "type": "Public",
+          "website": "https://ptc.edu.ph",
+          "info": "The primary higher education institution in the municipality of Pateros.",
+          "ph_ranking": "Not ranked in QS Asia 2026",
+          "qs_asia_rank_2026": "Not ranked",
+          "acceptance_rate": "~80-90% (open to Pateros residents)",
+          "total_estimated_students": "~1,000-3,000",
+          "programs": [
+            "Bachelor of Science in Office Administration",
+            "Bachelor of Secondary Education (BSEd)",
+            "Bachelor of Science in Business Administration (BSBA)",
+            "Bachelor of Science in Information Technology (BSIT)"
+          ],
+          "tuition": {
+            "pateros_residents": "Free (municipality-funded). Miscellaneous fees: approx. PHP 500-1,500 per semester."
+          }
+        }
+      ]
+    }
+  ]
+}
