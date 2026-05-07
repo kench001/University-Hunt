@@ -44,6 +44,10 @@
     @apply px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest border border-black/5;
   }
 
+  .soft-divider {
+    @apply w-px h-8 bg-black/5 mx-2 hidden md:block;
+  }
+
   .sky-bg {
     background: radial-gradient(circle at 50% 0%, #e0f2fe 0%, #f8fbfe 50%);
   }

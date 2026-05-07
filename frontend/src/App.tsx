@@ -71,8 +71,8 @@ export default function App() {
             transition={{ duration: 0.8 }}
           >
             {/* NAVIGATION */}
-            <nav className="fixed top-0 left-0 w-full z-50 bg-white/70 backdrop-blur-md border-b border-black/5 px-8 py-4">
-              <div className="max-w-7xl mx-auto flex justify-between items-center">
+            <nav className="fixed top-0 left-0 w-full z-50 bg-white/70 backdrop-blur-md border-b border-black/5 px-8 h-16 flex items-center">
+              <div className="max-w-7xl mx-auto w-full flex justify-between items-center">
                 <div className="flex items-center gap-2 cursor-pointer" onClick={() => setSelectedUni(null)}>
                   <div className="w-8 h-8 bg-midnight rounded-lg flex items-center justify-center text-white">
                     <GraduationCap size={20} />
@@ -105,7 +105,7 @@ export default function App() {
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
                   exit={{ opacity: 0 }}
-                  className="pt-20"
+                  className="pt-16"
                 >
                   {/* HERO SECTION */}
                   <header className="sky-bg pt-24 pb-32 px-8 text-center relative overflow-hidden">
@@ -155,29 +155,35 @@ export default function App() {
                   </header>
 
                   {/* SEARCH & FILTERS BAR */}
-                  <div className="sticky top-[73px] z-40 px-8 py-4 bg-sky-mist/80 backdrop-blur-md border-b border-black/5">
-                    <div className="max-w-7xl mx-auto flex flex-col md:flex-row gap-4 items-center">
-                      <div className="relative flex-grow w-full">
-                        <Search className="absolute left-6 top-1/2 -translate-y-1/2 text-midnight/30" size={20} />
-                        <input 
-                          type="text" 
-                          placeholder="Search schools, programs, or cities..." 
-                          className="w-full soft-input pl-14 py-3 text-lg"
-                          value={searchTerm}
-                          onChange={(e) => setSearchTerm(e.target.value)}
-                        />
-                      </div>
-                      <div className="flex gap-4 w-full md:w-auto">
-                        <select 
-                          className="flex-grow md:w-48 soft-input py-3 text-sm font-medium"
-                          value={selectedCity}
-                          onChange={(e) => setSelectedCity(e.target.value)}
-                        >
-                          {cities.map(city => <option key={city} value={city}>{city}</option>)}
-                        </select>
+                  <div className="sticky top-16 z-40 px-8 py-3 bg-sky-mist/80 backdrop-blur-md border-b border-black/5">
+                    <div className="max-w-4xl mx-auto">
+                      <div className="flex flex-col md:flex-row items-center bg-white rounded-3xl md:rounded-full shadow-premium border border-black/5 p-1.5 focus-within:ring-4 focus-within:ring-sunset-orange/10 transition-all gap-2 md:gap-0">
+                        <div className="relative flex-grow w-full">
+                          <Search className="absolute left-6 top-1/2 -translate-y-1/2 text-midnight/30" size={20} />
+                          <input 
+                            type="text" 
+                            placeholder="Search schools..." 
+                            className="w-full pl-14 py-3 text-lg bg-transparent border-none focus:outline-none placeholder:text-midnight/30"
+                            value={searchTerm}
+                            onChange={(e) => setSearchTerm(e.target.value)}
+                          />
+                        </div>
+                        
+                        <div className="soft-divider" />
+                        
+                        <div className="w-full md:w-auto flex items-center px-4 md:px-0">
+                          <select 
+                            className="w-full md:w-40 bg-transparent py-3 text-sm font-medium focus:outline-none cursor-pointer hover:text-sunset-orange transition-colors appearance-none"
+                            value={selectedCity}
+                            onChange={(e) => setSelectedCity(e.target.value)}
+                          >
+                            {cities.map(city => <option key={city} value={city}>{city}</option>)}
+                          </select>
+                        </div>
+
                         <button 
                           onClick={() => setIsComparing(!isComparing)}
-                          className={`soft-button py-3 text-sm ${compareList.length === 2 ? 'bg-sunset-orange text-white' : 'bg-midnight text-white'}`}
+                          className={`w-full md:w-auto soft-button !px-8 !py-3 whitespace-nowrap ${compareList.length === 2 ? 'bg-sunset-orange text-white' : 'bg-midnight text-white'}`}
                         >
                           <CompareIcon size={16} />
                           {isComparing ? 'Close Compare' : `Compare (${compareList.length}/2)`}
@@ -259,15 +265,14 @@ export default function App() {
                     </button>
 
                     <div className="flex flex-col lg:flex-row gap-16 items-start">
-                      {/* Hero Info */}
                       <div className="flex-grow">
-                        <div className="inline-flex gap-2 mb-6">
+                        <div className="inline-flex gap-2 items-center mb-6">
                           <span className="soft-tag bg-sunset-orange/10 text-sunset-orange">{selectedUni.type}</span>
                           <span className="soft-tag bg-midnight/5 text-midnight/40">{selectedUni.city}</span>
                         </div>
                         <h1 className="text-5xl md:text-7xl mb-8">{selectedUni.name}</h1>
                         <p className="text-xl text-muted-steel leading-relaxed mb-12 max-w-3xl">
-                          {selectedUni.info} {selectedUni.name} stands as a beacon of academic excellence in the heart of {selectedUni.city}, offering world-class programs and fostering a community of innovators.
+                          {selectedUni.info}
                         </p>
 
                         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-16">
@@ -277,7 +282,7 @@ export default function App() {
                           </div>
                           <div>
                             <p className="text-[10px] font-bold text-midnight/30 uppercase tracking-[0.2em] mb-2">Website</p>
-                            <p className="font-bold flex items-center gap-1 overflow-hidden text-ellipsis whitespace-nowrap">
+                            <p className="font-bold flex items-center gap-1">
                               <Globe size={14} className="flex-shrink-0" /> 
                               <a href={selectedUni.website} target="_blank" rel="noopener noreferrer" className="hover:text-sunset-orange transition-colors">
                                 {selectedUni.website.replace('https://', '').replace('www.', '')}
@@ -321,7 +326,6 @@ export default function App() {
                               ))}
                             </div>
                           </section>
-
                           <section>
                             <h3 className="text-2xl font-bold mb-6 flex items-center gap-2">
                               <Clock size={24} className="text-sunset-orange" /> Admissions
@@ -336,28 +340,66 @@ export default function App() {
                         </div>
                       </div>
 
-                      {/* Sidebar */}
-                      <div className="w-full lg:w-96 space-y-8">
-                        <div className="bg-white p-8 rounded-3xl border border-black/5 shadow-premium sticky top-32">
-                          <h4 className="text-sm font-bold uppercase tracking-widest text-midnight/30 mb-8">Summary</h4>
-                          <div className="space-y-6">
-                            <div className="flex justify-between items-center pb-4 border-b border-black/5">
-                              <span className="text-sm text-muted-steel font-medium">PH Ranking</span>
-                              <span className="font-bold text-right text-xs max-w-[180px]">{selectedUni.ph_ranking}</span>
-                            </div>
-                            <div className="flex justify-between items-center pb-4 border-b border-black/5">
-                              <span className="text-sm text-muted-steel font-medium">Acceptance Rate</span>
-                              <span className="font-bold">{selectedUni.acceptance_rate}</span>
-                            </div>
-                            <div className="flex justify-between items-center pb-4 border-b border-black/5">
-                              <span className="text-sm text-muted-steel font-medium">Total Students</span>
-                              <span className="font-bold">{selectedUni.total_estimated_students}</span>
-                            </div>
+                      {/* Sidebar - Quick Summary */}
+                      <div className="w-full lg:w-72">
+                        <motion.div 
+                          initial={{ opacity: 0, y: 20 }}
+                          animate={{ opacity: 1, y: 0 }}
+                          transition={{ delay: 0.3 }}
+                          className="bg-white rounded-[32px] p-8 border border-black/5 shadow-premium sticky top-32"
+                        >
+                          <div className="flex items-center gap-3 mb-8">
+                            <div className="w-2 h-8 bg-gradient-to-b from-sunset-orange to-orange-400 rounded-full" />
+                            <h4 className="text-xs font-bold uppercase tracking-[0.25em] text-midnight/40">Quick Summary</h4>
                           </div>
-                          <button className="w-full bg-sunset-orange text-white py-4 rounded-full font-bold mt-10 shadow-lg shadow-sunset-orange/20 hover:scale-[1.02] transition-all">
-                            Add to Comparison
-                          </button>
-                        </div>
+                          
+                          <div className="space-y-5">
+                            {[
+                              { icon: Award, label: 'Ranking', value: selectedUni.ph_ranking.replace(/\s*\(.*\)/, ''), color: 'sunset-orange', bgColor: 'bg-orange-50' },
+                              { icon: Globe, label: 'Acceptance', value: selectedUni.acceptance_rate.replace(/\s*\(.*\)/, ''), color: 'midnight', bgColor: 'bg-slate-50' },
+                              { icon: GraduationCap, label: 'Students', value: selectedUni.total_estimated_students, color: 'forest-green', bgColor: 'bg-emerald-50' },
+                              { icon: MapPin, label: 'Campus', value: selectedUni.city, color: 'royal-purple', bgColor: 'bg-violet-50' }
+                            ].map((item, i) => (
+                              <motion.div 
+                                key={i} 
+                                initial={{ opacity: 0, x: 20 }}
+                                animate={{ opacity: 1, x: 0 }}
+                                transition={{ delay: 0.4 + i * 0.1 }}
+                                className="group flex gap-4 items-center p-4 rounded-2xl hover:bg-gray-50/80 transition-all duration-300 cursor-default"
+                              >
+                                <div className={`w-12 h-12 ${item.bgColor} rounded-2xl flex items-center justify-center shrink-0 group-hover:scale-105 transition-transform duration-300`}>
+                                  <item.icon size={22} className={
+                                    item.color === 'sunset-orange' ? 'text-orange-500' : 
+                                    item.color === 'midnight' ? 'text-indigo-600' :
+                                    item.color === 'forest-green' ? 'text-emerald-600' :
+                                    'text-violet-600'
+                                  } />
+                                </div>
+                                <div className="flex flex-col min-w-0">
+                                  <span className="text-[10px] font-bold text-midnight/30 uppercase tracking-[0.15em] mb-0.5">{item.label}</span>
+                                  <p className="text-sm font-bold text-midnight leading-tight">{item.value}</p>
+                                </div>
+                                <div className="ml-auto opacity-0 group-hover:opacity-100 transition-opacity">
+                                  <ArrowUpRight size={14} className="text-midnight/30" />
+                                </div>
+                              </motion.div>
+                            ))}
+                          </div>
+
+                          <div className="mt-8 pt-6 border-t border-black/5">
+                            <div className="bg-gradient-to-br from-midnight/5 to-slate-50 rounded-2xl p-4 mb-6">
+                              <div className="flex items-center gap-2 mb-3">
+                                <div className="w-2 h-2 bg-sunset-orange rounded-full animate-pulse" />
+                                <span className="text-[10px] font-bold text-sunset-orange uppercase tracking-widest">Tip</span>
+                              </div>
+                              <p className="text-xs text-midnight/60 leading-relaxed">Compare up to 3 universities to see side-by-side tuition and rankings.</p>
+                            </div>
+                            <button className="w-full bg-gradient-to-r from-midnight to-indigo-900 text-white py-4 rounded-2xl font-bold text-sm flex items-center justify-center gap-3 group hover:shadow-xl hover:shadow-midnight/20 transition-all duration-300 active:scale-[0.98]">
+                              <CompareIcon size={16} className="group-hover:rotate-12 transition-transform duration-300" />
+                              Add to Comparison
+                            </button>
+                          </div>
+                        </motion.div>
                       </div>
                     </div>
                   </div>
@@ -365,10 +407,9 @@ export default function App() {
               )}
             </AnimatePresence>
 
-            {/* FOOTER */}
-            <footer className="bg-midnight text-white py-24 px-8 mt-20">
-              <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-12 mb-20">
-                <div className="md:col-span-2">
+              <footer className="bg-midnight text-white py-24 px-8 mt-20">
+                <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-12 mb-20">
+                  <div className="md:col-span-2">
                   <div className="flex items-center gap-2 mb-6">
                     <div className="w-8 h-8 bg-white rounded-lg flex items-center justify-center text-midnight">
                       <GraduationCap size={20} />
@@ -423,7 +464,7 @@ function UniversityCard({ uni, onCompare, compareList, onClick }: { uni: Univers
       className="soft-card group cursor-pointer relative overflow-hidden flex flex-col h-full"
     >
       <div className="flex justify-between items-start mb-6">
-        <div className="flex gap-2">
+        <div className="flex gap-2 items-center">
           <span className={`soft-tag ${uni.type === 'Public' ? 'bg-sunset-orange/10 text-sunset-orange border-sunset-orange/10' : 'bg-midnight/5 text-midnight/40 border-midnight/5'}`}>
             {uni.type}
           </span>
@@ -456,7 +497,7 @@ function UniversityCard({ uni, onCompare, compareList, onClick }: { uni: Univers
         <div className="flex flex-col">
           <span className="text-[9px] font-bold text-midnight/30 uppercase tracking-[0.2em]">Est. Tuition</span>
           <span className="font-display text-lg font-bold">
-            {Object.values(uni.tuition)[0].includes('Free') ? 'Free Tuition' : Object.values(uni.tuition)[0].split(' ')[1] || Object.values(uni.tuition)[0].split(' ')[0]}
+            {Object.values(uni.tuition)[0].includes('Free') ? 'Free Tuition' : Object.values(uni.tuition)[0].match(/PHP\s*[\d,]+/)?.[0] || Object.values(uni.tuition)[0].split(' ').slice(0, 2).join(' ')}
           </span>
         </div>
         <div className="text-sunset-orange opacity-0 group-hover:opacity-100 transition-all flex items-center gap-1 font-bold text-[10px] uppercase tracking-widest">
